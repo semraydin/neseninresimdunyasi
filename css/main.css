@@ -1,0 +1,27 @@
+.resim_dunyasi {
+    background-color: white;
+    );
+}
+
+.ayrac {
+    border: none;
+    border-top: 3px solid rgb(2, 2, 2);
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.ibeyaz {
+    position: relative;
+    background-color: white;
+    top: -45px;
+    font-size: 25px;
+    border: 8px solid white;
+}
+
+.ikoyu {
+    position: relative;
+    background-color: #e6e2de;
+    top: -45px;
+    font-size: 25px;
+    border: 8px solid #e6e2de;
+}
