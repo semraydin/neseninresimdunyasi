@@ -979,7 +979,7 @@
     
     .blog__article blockquote {
         max-width: 1170px;
-        margin: 50px auto;
+        margin: 30px auto;
         padding: 45px 45px 55px;
         background-image: url("../img/blog-single/quote.png");
         background-repeat: no-repeat;
